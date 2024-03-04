@@ -27,7 +27,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import nekos
 from helpstr import HELPSTR, STARTSTR
 
-API_TOKEN = os.environ.get("TOKEN")
+API_TOKEN = "5436508081:AAESJBRXddvCASlPBaSIhJ_rQiOeFIZeSu4"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
